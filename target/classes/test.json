@@ -1,0 +1,13 @@
+{
+  "animals" : [ {
+    "type" : "elephant",
+    "bodyPart" : "trunk",
+    "sound" : "trumpets",
+    "colour" : "grey"
+  }, {
+    "type" : "lion",
+    "bodyPart" : "mane",
+    "sound" : "roars",
+    "colour" : "yellow"
+  } ]
+}
